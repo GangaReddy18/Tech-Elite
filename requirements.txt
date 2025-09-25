@@ -1,0 +1,16 @@
+# Core Dependencies (Required)
+flask==2.3.3
+numpy==1.24.3
+
+# AI/ML Dependencies (Optional - for full functionality)
+# Uncomment these lines if you want to install the full ML stack:
+# tensorflow==2.13.0
+# opencv-python==4.8.1.78
+# Pillow==10.0.1
+
+# Additional utilities
+requests==2.31.0
+python-dateutil==2.8.2
+
+# For development/testing
+pytest==7.4.2
